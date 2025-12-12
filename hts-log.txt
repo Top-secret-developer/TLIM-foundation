@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 10 Oct 2025 12:40:40 at https://acecharityafrica.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://acecharityafrica.org/ -O1 "C:\My Web Sites\Charity website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:49:50	Error: 	"Not Found" (404) at link https://acecharityafrica.org/cdn-cgi/l/email-protection (from https://acecharityafrica.org/contact/)
+12:50:30	Error: 	"Not Found" (404) at link https://acecharityafrica.org/wp-content/uploads/2019/04/IMG_3314-300x225.jpg (from https://acecharityafrica.org/2019/04/26/kayodes-interview/)
+12:51:18	Warning: 	File not parsed, looks like binary: https://acecharityafrica.org/wp-content/plugins/pdf-viewer-for-elementor/assets/pdfjs/web/images/grab.cur
+12:51:18	Warning: 	File not parsed, looks like binary: https://acecharityafrica.org/wp-content/plugins/pdf-viewer-for-elementor/assets/pdfjs/web/images/grabbing.cur
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 38 seconds : 668 links scanned, 665 files written (71760585 bytes overall) [60764400 bytes received at 95242 bytes/sec], 17690722 bytes transferred using HTTP compression in 355 files, ratio 33%, 29.0 requests per connection
+(2 errors, 2 warnings, 0 messages)
